@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/WadeWillequer.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/WadeWillequer.github.io/static/js/main.8b9a3a30.chunk.js",
-    "main.js.map": "/WadeWillequer.github.io/static/js/main.8b9a3a30.chunk.js.map",
-    "runtime-main.js": "/WadeWillequer.github.io/static/js/runtime-main.8ce96402.js",
-    "runtime-main.js.map": "/WadeWillequer.github.io/static/js/runtime-main.8ce96402.js.map",
-    "static/js/2.f586bc24.chunk.js": "/WadeWillequer.github.io/static/js/2.f586bc24.chunk.js",
-    "static/js/2.f586bc24.chunk.js.map": "/WadeWillequer.github.io/static/js/2.f586bc24.chunk.js.map",
-    "index.html": "/WadeWillequer.github.io/index.html",
-    "precache-manifest.7001d9ed51496ec71112d32d69347010.js": "/WadeWillequer.github.io/precache-manifest.7001d9ed51496ec71112d32d69347010.js",
-    "service-worker.js": "/WadeWillequer.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/WadeWillequer.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f586bc24.chunk.js.LICENSE.txt": "/WadeWillequer.github.io/static/js/2.f586bc24.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/WadeWillequer.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.788ee262.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.788ee262.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.e892fe8b.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.e892fe8b.js.map",
+    "static/js/2.f586bc24.chunk.js": "/react-gh-pages/static/js/2.f586bc24.chunk.js",
+    "static/js/2.f586bc24.chunk.js.map": "/react-gh-pages/static/js/2.f586bc24.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.0b61584531bcf4c8e2ab3c97f263e51e.js": "/react-gh-pages/precache-manifest.0b61584531bcf4c8e2ab3c97f263e51e.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f586bc24.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.f586bc24.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ce96402.js",
+    "static/js/runtime-main.e892fe8b.js",
     "static/js/2.f586bc24.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8b9a3a30.chunk.js"
+    "static/js/main.788ee262.chunk.js"
   ]
 }
