@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.788ee262.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.788ee262.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.e892fe8b.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.e892fe8b.js.map",
-    "static/js/2.f586bc24.chunk.js": "/react-gh-pages/static/js/2.f586bc24.chunk.js",
-    "static/js/2.f586bc24.chunk.js.map": "/react-gh-pages/static/js/2.f586bc24.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.0b61584531bcf4c8e2ab3c97f263e51e.js": "/react-gh-pages/precache-manifest.0b61584531bcf4c8e2ab3c97f263e51e.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f586bc24.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.f586bc24.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/WadeWPortfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/WadeWPortfolio/static/js/main.b739cf88.chunk.js",
+    "main.js.map": "/WadeWPortfolio/static/js/main.b739cf88.chunk.js.map",
+    "runtime-main.js": "/WadeWPortfolio/static/js/runtime-main.aed4aed7.js",
+    "runtime-main.js.map": "/WadeWPortfolio/static/js/runtime-main.aed4aed7.js.map",
+    "static/js/2.f586bc24.chunk.js": "/WadeWPortfolio/static/js/2.f586bc24.chunk.js",
+    "static/js/2.f586bc24.chunk.js.map": "/WadeWPortfolio/static/js/2.f586bc24.chunk.js.map",
+    "index.html": "/WadeWPortfolio/index.html",
+    "precache-manifest.89df37441394078a57bcd490d7951da9.js": "/WadeWPortfolio/precache-manifest.89df37441394078a57bcd490d7951da9.js",
+    "service-worker.js": "/WadeWPortfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/WadeWPortfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f586bc24.chunk.js.LICENSE.txt": "/WadeWPortfolio/static/js/2.f586bc24.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/WadeWPortfolio/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e892fe8b.js",
+    "static/js/runtime-main.aed4aed7.js",
     "static/js/2.f586bc24.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.788ee262.chunk.js"
+    "static/js/main.b739cf88.chunk.js"
   ]
 }
